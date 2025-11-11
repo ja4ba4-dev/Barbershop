@@ -7,7 +7,8 @@
 </div>
 
 <div class="section">
-  <div class="header">Техническая архитектура</div>
+  <div class="header"><strong>Техническая архитектура</strong></div>
+  <br>
   <ul>
     <li><strong>Платформа:</strong> 1C:Предприятие 8.3.24+ (управляемые формы, СКД 2.0, мобильная платформа 8.3.22+)</li>
     <li><strong>СУБД:</strong> Файловая (локально); MSSQL 2019+ для серверного (скрипты в /SQL/)</li>
@@ -17,7 +18,8 @@
 </div>
 
 <div class="section">
-  <div class="header">Подсистемы конфигурации</div>
+  <div class="header"><strong>Подсистемы конфигурации</strong></div>
+  <br>
   <div class="table-container">
     <table>
       <tr><th>Категория</th><th>Объекты</th></tr>
